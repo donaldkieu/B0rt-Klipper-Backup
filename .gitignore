@@ -1,0 +1,11 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+.bash_profile.bak
+*.bkp
+*.csv
+Rpi-fbcp.zip
+Waveshare35b-v2.zip
+ShakeTune_results
